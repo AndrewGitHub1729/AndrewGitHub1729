@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data visualisation techniques and dashboard building.
 - 📫 How to reach me: Email- andrewjcb1@gmail.com
 
-- ⚡ Fun fact: A man walked into a bar and said "OWW!!"
+- ⚡ Fun fact: Every 2 days we create as much information as we did from the beginning of time to 2003.
 
 <!---
 AndrewGitHub1729/AndrewGitHub1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
